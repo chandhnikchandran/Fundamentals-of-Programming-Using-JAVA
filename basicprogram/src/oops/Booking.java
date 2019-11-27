@@ -1,5 +1,7 @@
 package oops;
 
+import java.util.Scanner;
+
 public class Booking {
 	
 	class Main
